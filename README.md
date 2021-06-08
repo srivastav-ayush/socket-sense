@@ -4,5 +4,5 @@ I am currently working as a Remote Intern with the Socket Sense research group a
 Responsibilities:<br>
 - Finite Element Analysis (FEA) of tansfemoral amputee to investigate pressure distribution on the soft tissue (i.e., the residual leg or stump) at contact with prosthetic socket.<br><br>
 
-![Total Deformation](https://github.com/srivastav-ayush/socket-sense/blob/main/Femur%2C%20Stump%20%26%20Socket%20-%20Isometric%20View.JPG)
+![Total Deformation](https://github.com/srivastav-ayush/socket-sense/blob/main/Deformation.jpg)
 
